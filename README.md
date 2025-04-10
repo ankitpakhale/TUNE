@@ -78,7 +78,7 @@ lib/
 ├── ui/                   # Screens and animations
 ├── services/             # YouTube API, audio, and download logic
 ├── models/               # Data models
-├── utils/                # Helpers and converters
+├── utils/                # Helpers & converters
 ├── config/               # Constants and API keys
 └── main.dart             # App entry point
 ```
